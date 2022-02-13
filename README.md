@@ -8,4 +8,6 @@
 
 Languages and Tools:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeladames0&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeladames0&layout=compact&theme=algolia)](https://github.com/angeladames0/github-readme-stats)
